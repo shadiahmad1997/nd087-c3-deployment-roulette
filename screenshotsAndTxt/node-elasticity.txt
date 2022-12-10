@@ -1,0 +1,30 @@
+shabdulqader@IT-DBA-04:~/udacity-sre-projects/self-healing-Architectures/nd087-c3-deployment-roulette$ kubectl get pods
+NAME                                  READY   STATUS    RESTARTS   AGE
+bloaty-mcbloatface-58c98b98d8-48pzm   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-9jrb7   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-cqnw7   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-d8c8k   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-ghnwb   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-gqm4p   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-kxt87   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-m7n2q   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-m8ghn   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-mblrs   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-qjzrl   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-qrjlx   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-rsn8b   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-t47ns   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-vm67n   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-x56w8   1/1     Running   0          10m
+bloaty-mcbloatface-58c98b98d8-zwm67   1/1     Running   0          10m
+blue-8475cbdf46-d5r5r                 1/1     Running   0          40m
+blue-8475cbdf46-v8m2g                 1/1     Running   0          40m
+canary-v1-64598c676f-8tj5x            1/1     Running   0          40m
+canary-v1-64598c676f-ssbc9            1/1     Running   0          40m
+canary-v1-64598c676f-tbrwb            1/1     Running   0          40m
+canary-v2-5dc9c56687-qcq8z            1/1     Running   0          39m
+green-5cdd96c9b4-vdbcf                1/1     Running   0          40m
+green-5cdd96c9b4-w549j                1/1     Running   0          40m
+green-5cdd96c9b4-zpxr9                1/1     Running   0          40m
+hello-world-794458d64d-bk66m          1/1     Running   0          40m
+shabdulqader@IT-DBA-04:~/udacity-sre-projects/self-healing-Architectures/nd087-c3-deployment-roulette$
